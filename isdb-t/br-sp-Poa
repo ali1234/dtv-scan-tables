@@ -1,7 +1,7 @@
 # Channel table for Po� - SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=870
 
-# Physical channel 14 (virtual 14.1)
+# Physical channel 14 (virtual 6.1)
 [RBI TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -31,7 +31,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 15 (virtual 16.1)
-[Mega TV]
+[CBI TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 16 (virtual 48.1)
+# Physical channel 16 (virtual 3.1)
 [NGT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 18 (virtual 5.1)
-[TV Globo]
+[TV Globo SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857
@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 7.1)
-[Record TV]
+[Record]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 49.1)
-[Terra Viva]
+[Canal Empreender]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 22 (virtual 21.1)
-[Rede 21]
+[Canal 21]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 24 (virtual 2.3)
-[TV Cultura, Univesp, TV Educação]
+[TV Cultura, Univesp, Multicultura]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -378,8 +378,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 27 (virtual 53.1)
-[Rede Gospel]
+# Physical channel 27 (virtual 53.2)
+[Rede Gospel, Canal sem transmissão]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 551142857
@@ -553,7 +553,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 33 (virtual 33.3)
-[Top TV, Kiss TV, Canal sem transmissão]
+[Top TV, Kiss TV, Astral TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857
@@ -610,8 +610,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 35 (virtual 52.1)
-[TV da Cidade de São Paulo]
+# Physical channel 35 (virtual 17.2)
+[RTN TV, Rede Gênesis]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857
@@ -669,7 +669,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38 (virtual 1.4)
-[TV Brasil SP, TV Brasil 2, TV Escola, Canal Saúde]
+[TV Brasil SP, Canal Gov, Canal Educação, Canal Saúde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -727,7 +727,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 40 (virtual 40.1)
-[TV Sul Bahia]
+[RIT]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857
@@ -900,8 +900,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 47 (virtual 47.1)
-[Rede Mundial]
+# Physical channel 47 (virtual 47.2)
+[RTN TV, Rede Gênesis]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857
@@ -929,7 +929,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 48 (virtual 55.1)
+# Physical channel 48 (virtual 15.1)
 [TV8]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

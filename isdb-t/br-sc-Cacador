@@ -1,7 +1,7 @@
 # Channel table for Ca�ador - SC - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=765
 
-# Physical channel 16 (virtual 17.3)
+# Physical channel 16 (virtual 49.3)
 [Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30 (virtual 13.1)
-[NDTV Chapecó]
+# Physical channel 30 (virtual 13.2)
+[NDTV Chapecó, TV Inova SC]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857

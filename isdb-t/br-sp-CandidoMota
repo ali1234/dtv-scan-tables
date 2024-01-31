@@ -1,7 +1,7 @@
 # Channel table for C�ndido Mota - SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3428
 
-# Physical channel 14 (virtual 41.1)
+# Physical channel 14 (virtual 25.1)
 [RBI TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 28 (virtual 4.1)
-[Record TV Paulista]
+[Record Paulista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 44 (virtual 13.3)
-[TV Cultura, Univesp, TV Educação]
+[TV Cultura, Univesp, Multicultura]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 653142857

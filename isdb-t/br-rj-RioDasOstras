@@ -1,8 +1,8 @@
 # Channel table for Rio Das Ostras - RJ - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1317
 
-# Physical channel 21 (virtual 28.1)
-[Rede Vida]
+# Physical channel 21 (virtual 28.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 35 (virtual 32.1)
-[Band Rio Interior, TV SEEDUC RJ]
+[Band Rio Interior]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857

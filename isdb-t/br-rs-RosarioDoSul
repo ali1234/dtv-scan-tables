@@ -1,8 +1,8 @@
 # Channel table for Ros�rio Do Sul - RS - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1908
 
-# Physical channel 17 (virtual 31.1)
-[Rede Vida]
+# Physical channel 17 (virtual 31.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 491142857

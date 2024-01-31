@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 27 (virtual 27.1)
-[Rede América]
+[TV Adorar]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 551142857
@@ -175,7 +175,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33 (virtual 4.2)
+# Physical channel 33 (virtual 4.1)
 [SBT Interior/SP]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 39 (virtual 22.3)
-[TV Cultura, Univesp, TV Educação]
+[TV Cultura, Univesp, Multicultura]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 623142857
@@ -263,7 +263,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 43 (virtual 7.1)
-[Record TV Rio Preto]
+[Record Rio Preto]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857
@@ -320,7 +320,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 47 (virtual 14.1)
+# Physical channel 47 (virtual 30.1)
 [RBI TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -349,8 +349,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49 (virtual 20.2)
-[Rede TV!, Universo EADTV]
+# Physical channel 49 (virtual 20.1)
+[Rede TV!]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

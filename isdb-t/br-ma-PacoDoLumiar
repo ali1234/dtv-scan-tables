@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 34 (virtual 2.4)
-[TV Brasil Maranhão, TV Brasil 2, TV IFMA, Canal Saúde]
+[TV Brasil Maranhão, Canal Gov, TV IFMA, Canal Saúde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857
@@ -321,7 +321,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 36 (virtual 6.2)
-[TV Cidade/MA]
+[TV Cidade/MA, Canal Ligados]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 605142857

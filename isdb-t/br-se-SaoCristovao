@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 24 (virtual 23.1)
-[Rede Família]
+[RFTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -175,8 +175,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33 (virtual 4.2)
-[TV Sergipe, Educação SE]
+# Physical channel 33 (virtual 4.1)
+[TV Sergipe]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857
@@ -233,8 +233,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 38 (virtual 39.1)
-[Rede Vida]
+# Physical channel 38 (virtual 39.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857

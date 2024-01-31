@@ -2,7 +2,7 @@
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=4009
 
 # Physical channel 34 (virtual 13.1)
-[RICTV Maringá]
+[RIC tv Maringá]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

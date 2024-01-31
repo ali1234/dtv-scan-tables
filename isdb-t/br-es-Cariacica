@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 19 (virtual 3.4)
-[TV Câmara, TV Assembleia ES, TV Câmara Municipal, TV Senado]
+# Physical channel 19 (virtual 3.5)
+[TV Câmara, TV Assembleia ES, TV Câmara Municipal, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 20 (virtual 2.2)
-[TV Educativa ES, TV Educação]
+[TVE Espírito Santo, Multicultura]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857
@@ -118,7 +118,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 22 (virtual 4.1)
-[TV Gazeta Vitória]
+[TV Gazeta ES]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 29 (virtual 28.1)
-[Loading TV]
+[Ideal TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 563142857
@@ -349,8 +349,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 40 (virtual 8.4)
-[Record News ES, Aula em Casa/Dever em Casa]
+# Physical channel 40 (virtual 8.1)
+[Record News ES]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 629142857
@@ -437,7 +437,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 43 (virtual 13.1)
-[TV Mundial]
+[TV Adorar]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 647142857

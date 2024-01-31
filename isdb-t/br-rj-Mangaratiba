@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 16 (virtual 16.1)
+# Physical channel 16 (virtual 8.1)
 [RBI TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 21 (virtual 6.2)
-[Rede TV! RJ, Universo EADTV]
+# Physical channel 21 (virtual 6.1)
+[Rede TV! RJ]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857
@@ -88,8 +88,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 22 (virtual 34.1)
-[Rede Vida]
+# Physical channel 22 (virtual 34.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857
@@ -205,7 +205,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38 (virtual 38.1)
-[Record TV Rio]
+[Record Rio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -234,7 +234,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 41 (virtual 2.4)
-[TV Brasil, TV Brasil 2, TV Escola, Canal Saúde]
+[TV Brasil, Canal Gov, Canal Educação, Canal Saúde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 635142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 47 (virtual 47.1)
-[Loading TV]
+[Ideal TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857

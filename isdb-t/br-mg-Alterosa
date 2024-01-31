@@ -1,8 +1,8 @@
 # Channel table for Alterosa - MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3508
 
-# Physical channel 34 (virtual 34.1)
-[TV Alfenas]
+# Physical channel 34 (virtual 34.4)
+[Rede Minas, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

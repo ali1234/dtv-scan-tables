@@ -1,8 +1,8 @@
 # Channel table for Linhares - ES - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=270
 
-# Physical channel 16 (virtual 8.4)
-[Record News ES, Aula em Casa/Dever em Casa]
+# Physical channel 16 (virtual 8.1)
+[Record News ES]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857

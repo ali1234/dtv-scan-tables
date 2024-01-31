@@ -1,8 +1,8 @@
 # Channel table for Visconde Do Rio Branco - MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=2926
 
-# Physical channel 38 (virtual 38.2)
-[Rede Minas]
+# Physical channel 38 (virtual 38.4)
+[Rede Minas, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857

@@ -2,7 +2,7 @@
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=4075
 
 # Physical channel 32 (virtual 7.1)
-[TV Centro América]
+[TV Centro América Sinop]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857

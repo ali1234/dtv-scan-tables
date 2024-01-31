@@ -175,8 +175,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30 (virtual 7.4)
-[TV Câmara, TV Senado, TV Assembleia CE, TV Fortaleza]
+# Physical channel 30 (virtual 7.5)
+[TV Câmara, TV Câmara Fortaleza, TV Assembleia CE, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -262,8 +262,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34 (virtual 2.2)
-[Rede TV!, Universo EADTV]
+# Physical channel 34 (virtual 2.1)
+[Rede TV! Fortaleza]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 19 (virtual 15.1)
-[Rede Vida]
+# Physical channel 19 (virtual 15.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857
@@ -117,8 +117,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 21 (virtual 41.2)
-[Rede Massa Naipi, TV Escola Curitiba]
+# Physical channel 21 (virtual 41.1)
+[Rede Massa Naipi]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857

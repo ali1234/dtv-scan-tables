@@ -1,8 +1,8 @@
 # Channel table for Miracatu - SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=453
 
-# Physical channel 15 (virtual 41.1)
-[Rede Vida]
+# Physical channel 15 (virtual 15.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -30,7 +30,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 19 (virtual 22.1)
+# Physical channel 19 (virtual 18.1)
 [TV Tribuna]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -60,7 +60,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 21 (virtual 3.3)
-[TV Cultura, Univesp, TV Educação]
+[TV Cultura, Univesp, Multicultura]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 515142857

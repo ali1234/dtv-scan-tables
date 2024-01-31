@@ -59,7 +59,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 20 (virtual 21.1)
+# Physical channel 20 (virtual 13.1)
 [RBI TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -146,8 +146,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 25 (virtual 12.1)
-[EPTV Campinas]
+# Physical channel 25 (virtual 12.2)
+[EPTV Campinas, Educa TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 539142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 31 (virtual 31.1)
-[Rede Brasil de Televisão]
+[RBTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857
@@ -408,7 +408,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38 (virtual 10.3)
-[TV Cultura Paulista, Univesp, TV Educação]
+[TV Cultura Paulista, Univesp, Multicultura]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857
@@ -466,7 +466,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 44 (virtual 8.1)
-[Rede Família]
+[RFTV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 653142857
@@ -524,7 +524,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 47 (virtual 47.1)
-[Top TV Pelotas]
+[Astral TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 671142857
@@ -552,8 +552,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 49 (virtual 48.2)
-[Rede TV!, Universo EADTV]
+# Physical channel 49 (virtual 48.1)
+[Rede TV!]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 683142857

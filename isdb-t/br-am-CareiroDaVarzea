@@ -147,7 +147,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 24 (virtual 23.1)
-[Loading TV]
+[Ideal TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 533142857
@@ -292,7 +292,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 32 (virtual 2.5)
-[TV Encontro das Águas, Aula em Casa/Dever em Casa]
+[TV Encontro das Águas, Aula em Casa, Rádio Encontro das Águas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857
@@ -320,8 +320,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 33 (virtual 6.4)
-[TV Senado, TV ALEAM, TV Câmara Municipal Manaus]
+# Physical channel 33 (virtual 6.5)
+[TV Senado, TV ALEAM, TV Câmara Municipal Manaus, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 587142857
@@ -379,7 +379,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 35 (virtual 36.1)
-[Record TV Manaus]
+[Record Manaus]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857
@@ -437,7 +437,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 45 (virtual 44.1)
-[AmazonSat]
+[Amazon Sat]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 659142857

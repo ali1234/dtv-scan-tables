@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 19 (virtual 20.4)
-[TV Tiradentes, Aula em Casa/Dever em Casa]
+[TV Tiradentes, Aula em Casa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 503142857
@@ -175,7 +175,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 24 (virtual 23.1)
+# Physical channel 24 (virtual 24.1)
 [Ideal TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -233,7 +233,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 26 (virtual 11.1)
+# Physical channel 26 (virtual 16.1)
 [TV Cachoeira]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -320,8 +320,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 30 (virtual 8.2)
-[Boas Novas, Rádio Onda Digital]
+# Physical channel 30 (virtual 8.3)
+[Boas Novas, Onda Digital, Canal em teste]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 569142857
@@ -349,8 +349,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 32 (virtual 2.4)
-[TV Encontro das Águas, Aula em Casa/Dever em Casa]
+# Physical channel 32 (virtual 2.5)
+[TV Encontro das Águas, Aula em Casa, Rádio Encontro das Águas]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 581142857
@@ -437,7 +437,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 35 (virtual 36.1)
-[Record TV Manaus]
+[Record Manaus]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 599142857
@@ -495,7 +495,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 45 (virtual 44.1)
-[AmazonSat]
+[Amazon Sat]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 659142857
@@ -639,7 +639,7 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 51 (virtual 51.1)
+# Physical channel 51 (virtual 7.1)
 [RBI TV]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000

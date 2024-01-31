@@ -1,8 +1,8 @@
 # Channel table for Guai�ara - SP - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3941
 
-# Physical channel 16 (virtual 16.1)
-[Rede Vida]
+# Physical channel 16 (virtual 16.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 485142857
@@ -117,8 +117,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 28 (virtual 12.1)
-[Record TV Paulista]
+# Physical channel 28 (virtual 4.1)
+[Record Paulista]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 557142857

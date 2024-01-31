@@ -2,7 +2,7 @@
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1209
 
 # Physical channel 10 (virtual 2.4)
-[TV Brasil, TV Brasil 2, TV Escola, Canal Saúde]
+[TV Brasil, Canal Gov, Canal Educação, Canal Saúde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 195142857
@@ -30,11 +30,11 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 35 (virtual 9.4)
+# Physical channel 12 (virtual 9.4)
 [TV Câmara, TV Assembleia RN, TV Senado, Rádio Câmara]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
-	FREQUENCY = 599142857
+	FREQUENCY = 207142857
 	INVERSION = AUTO
 	GUARD_INTERVAL = AUTO
 	TRANSMISSION_MODE = AUTO

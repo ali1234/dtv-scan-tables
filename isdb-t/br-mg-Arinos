@@ -1,8 +1,8 @@
 # Channel table for Arinos - MG - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=3240
 
-# Physical channel 18 (virtual 18.2)
-[Rede Minas]
+# Physical channel 18 (virtual 18.4)
+[Rede Minas, Rede Minas Educa]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 497142857
@@ -30,8 +30,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 20 (virtual 12.1)
-[Rede Vida]
+# Physical channel 20 (virtual 12.3)
+[Rede Vida, Rede Vida Educação]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 509142857

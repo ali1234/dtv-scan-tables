@@ -1,7 +1,7 @@
 # Channel table for Colorado - PR - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1684
 
-# Physical channel 22 (virtual 22.2)
+# Physical channel 22 (virtual 22.1)
 [TV Alvorada]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
@@ -59,8 +59,8 @@
 	ISDBT_LAYERC_SEGMENT_COUNT = 0
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
-# Physical channel 34 (virtual 13.4)
-[RICTV Maringá, Aula Paraná, Aula Paraná, Aula Paraná]
+# Physical channel 34 (virtual 13.1)
+[RIC tv Maringá]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 593142857

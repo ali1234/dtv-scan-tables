@@ -1,8 +1,8 @@
 # Channel table for Serrolândia - BA - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1545
 
-# Physical channel 22 (virtual 5.1)
-[Record TV Itapoan]
+# Physical channel 22 (virtual 13.1)
+[Record Bahia]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 521142857

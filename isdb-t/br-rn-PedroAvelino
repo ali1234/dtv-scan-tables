@@ -1,8 +1,8 @@
 # Channel table for Pedro Avelino - RN - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=1198
 
-# Physical channel 31 (virtual 7.1)
-[Band Bahia]
+# Physical channel 31 (virtual 3.1)
+[Band Ceará]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857
@@ -89,7 +89,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 46 (virtual 2.4)
-[TV Brasil, TV Brasil 2, TV Escola, Canal Saúde]
+[TV Brasil, Canal Gov, Canal Educação, Canal Saúde]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 665142857

@@ -1,8 +1,8 @@
 # Channel table for Angra Dos Reis - RJ - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=416
 
-# Physical channel 15 (virtual 29.2)
-[Band Rio Interior, TV SEEDUC RJ]
+# Physical channel 15 (virtual 29.1)
+[Band Rio Interior]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 479142857
@@ -176,7 +176,7 @@
 	ISDBT_LAYERC_TIME_INTERLEAVING = 0
 
 # Physical channel 38 (virtual 13.1)
-[Record TV Rio]
+[Record Rio]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 617142857

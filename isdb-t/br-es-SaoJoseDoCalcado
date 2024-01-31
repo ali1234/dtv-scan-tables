@@ -1,8 +1,8 @@
 # Channel table for São José Do Calçado - ES - Brazil
 # Source: https://portalbsd.com.br/terrestres_channels.php?cidade=4251
 
-# Physical channel 31 (virtual 8.4)
-[Record News ES, Aula em Casa/Dever em Casa]
+# Physical channel 31 (virtual 8.1)
+[Record News ES]
 	DELIVERY_SYSTEM = ISDBT
 	BANDWIDTH_HZ = 6000000
 	FREQUENCY = 575142857
